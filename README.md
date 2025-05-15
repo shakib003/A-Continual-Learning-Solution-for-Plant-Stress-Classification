@@ -2,6 +2,7 @@
 *🌱 "Optimizing CNN Memory Efficiency: A Continual Learning Solution for Plant Stress Classification"*
 
 
+
 ## ✨ Highlights
 - Applying continual learning techniques such as Elastic Weight Consolidation (EWC) and Learning without Forgetting (LwF) to CNN models, allowing them to continuously acquire new knowledge without losing previously acquired information.
 - Dividing the dataset into tasks that simulate real-world scenarios of continuous data flow, enabling the evaluation of the proposed methods under conditions that mirror dynamic agricultural environments.
