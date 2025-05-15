@@ -1,7 +1,6 @@
 # A-Continual-Learning-Solution-for-Plant-Stress-Classification
 *🌱 "Optimizing CNN Memory Efficiency: A Continual Learning Solution for Plant Stress Classification"*
 
-**Submitted at Pattern Recognition Journal; IF: 7.5**
 
 ## ✨ Highlights
 - Applying continual learning techniques such as Elastic Weight Consolidation (EWC) and Learning without Forgetting (LwF) to CNN models, allowing them to continuously acquire new knowledge without losing previously acquired information.
