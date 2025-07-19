@@ -40,4 +40,6 @@ This dataset is crucial for plant stress classification and has been utilized to
 |                           | **Task-4** | **60%**         | **61%**         | **55%**         | **75%**         |
 
 ## 👥 Contributors
-- Ahmed Shakib Reza, Shakib Sadat Shanto, Farah Ulfat Zaima, Tazkera Sattar, Mysha Maliha Annisa, Muhammad Iqbal Hossain
+- Ahmed Shakib Reza, Shakib Sadat Shanto, Farah Ulfat Zaima, Tazkera Sattar, Mysha Maliha Annisa, Muhammad Iqbal Hossain, Nafiz Fahad, Tze Hui Liew
+## Contact 
+Ahmed Shakib Reza- shakibreza003@gmail.com
